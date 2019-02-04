@@ -1,0 +1,3 @@
+this is a new file in development.
+
+shouldn't cause merge conflicts in branch.
