@@ -3,3 +3,5 @@ this is a new file in development.
 shouldn't cause merge conflicts in branch.
 
 another no conflict change
+
+no conflict for feature 124
